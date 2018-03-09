@@ -1,0 +1,8 @@
+
+1-main.cpp de yapamadýðým fonksiyonlarý yorum satýrýna çevirdim .
+Derleme yaparken rar ýn içindeki main.cpp 'yi derlerseniz hatasýz çalýþýr.
+
+2- Exception koþullardan iki tanesi olan dimension kontrolünün ve weight kontrolünün koþullarýný yazdým 
+  ancak hata aldýðým için kullanmadým. Bundan dolayý "ToyBox" ýn içinde dört adet oyuncak oluþturuldu.
+
+												Teþekkürler... 
